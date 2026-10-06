@@ -1,0 +1,1353 @@
+{
+ "EnchantStatId": "enchant.stat_3948993189",
+ "PassiveCountStatId": "enchant.stat_3086156145",
+ "Enchants": [
+  {
+   "Id": 1,
+   "Text": "Axe Attacks deal 12% increased Damage with Hits and Ailments\nSword Attacks deal 12% increased Damage with Hits and Ailments"
+  },
+  {
+   "Id": 2,
+   "Text": "Staff Attacks deal 12% increased Damage with Hits and Ailments\nMace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments"
+  },
+  {
+   "Id": 3,
+   "Text": "Claw Attacks deal 12% increased Damage with Hits and Ailments\nDagger Attacks deal 12% increased Damage with Hits and Ailments"
+  },
+  {
+   "Id": 4,
+   "Text": "12% increased Damage with Bows\n12% increased Damage Over Time with Bow Skills"
+  },
+  {
+   "Id": 5,
+   "Text": "Wand Attacks deal 12% increased Damage with Hits and Ailments"
+  },
+  {
+   "Id": 6,
+   "Text": "12% increased Damage with Two Handed Weapons"
+  },
+  {
+   "Id": 7,
+   "Text": "12% increased Attack Damage while Dual Wielding"
+  },
+  {
+   "Id": 8,
+   "Text": "12% increased Attack Damage while holding a Shield"
+  },
+  {
+   "Id": 9,
+   "Text": "10% increased Attack Damage"
+  },
+  {
+   "Id": 10,
+   "Text": "10% increased Spell Damage"
+  },
+  {
+   "Id": 11,
+   "Text": "10% increased Elemental Damage"
+  },
+  {
+   "Id": 12,
+   "Text": "12% increased Physical Damage"
+  },
+  {
+   "Id": 13,
+   "Text": "12% increased Fire Damage"
+  },
+  {
+   "Id": 14,
+   "Text": "12% increased Lightning Damage"
+  },
+  {
+   "Id": 15,
+   "Text": "12% increased Cold Damage"
+  },
+  {
+   "Id": 16,
+   "Text": "12% increased Chaos Damage"
+  },
+  {
+   "Id": 17,
+   "Text": "Minions deal 10% increased Damage"
+  }
+ ],
+ "Notables": [
+  {
+   "Name": "Advance Guard",
+   "Order": 11119,
+   "Level": 50,
+   "Group": "AfflictionNotableAdvanceGuard",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1625939562",
+   "Enchants": [
+    8
+   ]
+  },
+  {
+   "Name": "Aggressive Defence",
+   "Order": 15405,
+   "Level": 1,
+   "Group": "AfflictionNotableAggressiveDefence",
+   "Suffix": false,
+   "TradeId": "explicit.stat_4154008618",
+   "Enchants": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "Name": "Ancestral Inspiration",
+   "Order": 11164,
+   "Level": 68,
+   "Group": "AfflictionNotableAncestralInspiration",
+   "Suffix": false,
+   "TradeId": "explicit.stat_77045106",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Arcane Adept",
+   "Order": 11172,
+   "Level": 68,
+   "Group": "AfflictionNotableArcaneAdept",
+   "Suffix": false,
+   "TradeId": "explicit.stat_393565679",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Arcane Heroism",
+   "Order": 11224,
+   "Level": 68,
+   "Group": "AfflictionNotableArcaneHeroism",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3901992019",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Arcing Shot",
+   "Order": 11195,
+   "Level": 50,
+   "Group": "AfflictionNotableArcingShot",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3212859169",
+   "Enchants": [
+    4
+   ]
+  },
+  {
+   "Name": "Battle-Hardened",
+   "Order": 11134,
+   "Level": 50,
+   "Group": "AfflictionNotableBattleHardened",
+   "Suffix": false,
+   "TradeId": "explicit.stat_4188581520",
+   "Enchants": [
+    12
+   ]
+  },
+  {
+   "Name": "Battlefield Dominator",
+   "Order": 11201,
+   "Level": 1,
+   "Group": "AfflictionNotableBattlefieldDominator",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1499057234",
+   "Enchants": [
+    6
+   ]
+  },
+  {
+   "Name": "Blanketed Snow",
+   "Order": 11243,
+   "Level": 68,
+   "Group": "AfflictionNotableBlanketedSnow",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1085167979",
+   "Enchants": [
+    15
+   ]
+  },
+  {
+   "Name": "Blast-Freeze",
+   "Order": 11286,
+   "Level": 68,
+   "Group": "AfflictionNotableBlastFreeze",
+   "Suffix": false,
+   "TradeId": "explicit.stat_693808153",
+   "Enchants": [
+    15
+   ]
+  },
+  {
+   "Name": "Blizzard Caller",
+   "Order": 12243,
+   "Level": 50,
+   "Group": "AfflictionNotableBlizzardCaller",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3758712376",
+   "Enchants": [
+    15
+   ]
+  },
+  {
+   "Name": "Bloodscent",
+   "Order": 11186,
+   "Level": 75,
+   "Group": "AfflictionNotableBloodscent",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3967765261",
+   "Enchants": [
+    1
+   ]
+  },
+  {
+   "Name": "Broadside",
+   "Order": 11197,
+   "Level": 1,
+   "Group": "AfflictionNotableBroadside",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2205982416",
+   "Enchants": [
+    4
+   ]
+  },
+  {
+   "Name": "Brutal Infamy",
+   "Order": 11205,
+   "Level": 50,
+   "Group": "AfflictionNotableBrutalInfamy",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2068574831",
+   "Enchants": [
+    6
+   ]
+  },
+  {
+   "Name": "Burden Projection",
+   "Order": 11226,
+   "Level": 50,
+   "Group": "AfflictionNotableBurdenProjection",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2008682345",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Burning Bright",
+   "Order": 11262,
+   "Level": 50,
+   "Group": "AfflictionNotableBurningBright",
+   "Suffix": false,
+   "TradeId": "explicit.stat_4199056048",
+   "Enchants": [
+    13
+   ]
+  },
+  {
+   "Name": "Calamitous",
+   "Order": 11217,
+   "Level": 50,
+   "Group": "AfflictionNotableCalamitous",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3359207393",
+   "Enchants": [
+    9,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "Name": "Call to the Slaughter",
+   "Order": 11255,
+   "Level": 1,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_3317068522",
+   "Enchants": [
+    17
+   ]
+  },
+  {
+   "Name": "Cold to the Core",
+   "Order": 11244,
+   "Level": 68,
+   "Group": "AfflictionNotableColdtotheCore",
+   "Suffix": false,
+   "TradeId": "explicit.stat_744783843",
+   "Enchants": [
+    15
+   ]
+  },
+  {
+   "Name": "Cold-Blooded Killer",
+   "Order": 11245,
+   "Level": 50,
+   "Group": "AfflictionNotableColdBloodedKiller",
+   "Suffix": false,
+   "TradeId": "explicit.stat_836566759",
+   "Enchants": [
+    15
+   ]
+  },
+  {
+   "Name": "Combat Rhythm",
+   "Order": 11207,
+   "Level": 50,
+   "Group": "AfflictionNotableCombatRhythm",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3122505794",
+   "Enchants": [
+    7
+   ]
+  },
+  {
+   "Name": "Conjured Wall",
+   "Order": 11223,
+   "Level": 50,
+   "Group": "AfflictionNotableConjuredWall",
+   "Suffix": false,
+   "TradeId": "explicit.stat_4105031548",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Corrosive Elements",
+   "Order": 11231,
+   "Level": 75,
+   "Group": "AfflictionNotableCorrosiveElements",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1777139212",
+   "Enchants": [
+    11,
+    14,
+    15,
+    13
+   ]
+  },
+  {
+   "Name": "Cremator",
+   "Order": 11238,
+   "Level": 50,
+   "Group": "AfflictionNotableCremator",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1153801980",
+   "Enchants": [
+    13
+   ]
+  },
+  {
+   "Name": "Dark Ideation",
+   "Order": 11249,
+   "Level": 68,
+   "Group": "AfflictionNotableDarkIdeation",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1603621602",
+   "Enchants": [
+    16
+   ]
+  },
+  {
+   "Name": "Deadly Repartee",
+   "Order": 11212,
+   "Level": 1,
+   "Group": "AfflictionNotableDeadlyRepartee",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1013470938",
+   "Enchants": [
+    7
+   ]
+  },
+  {
+   "Name": "Deep Chill",
+   "Order": 11285,
+   "Level": 1,
+   "Group": "AfflictionNotableDeepChill",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1703766309",
+   "Enchants": [
+    15
+   ]
+  },
+  {
+   "Name": "Devastator",
+   "Order": 11218,
+   "Level": 75,
+   "Group": "AfflictionNotableDevastator",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3711553948",
+   "Enchants": [
+    9,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "Name": "Disease Vector",
+   "Order": 11194,
+   "Level": 50,
+   "Group": "AfflictionNotableDiseaseVector",
+   "Suffix": false,
+   "TradeId": "explicit.stat_183591019",
+   "Enchants": [
+    3
+   ]
+  },
+  {
+   "Name": "Disorienting Display",
+   "Order": 11233,
+   "Level": 50,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_3206911230",
+   "Enchants": [
+    11,
+    14,
+    15,
+    13
+   ]
+  },
+  {
+   "Name": "Doryani's Lesson",
+   "Order": 11232,
+   "Level": 68,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_228455793",
+   "Enchants": [
+    11,
+    14,
+    15,
+    13
+   ]
+  },
+  {
+   "Name": "Drive the Destruction",
+   "Order": 11220,
+   "Level": 1,
+   "Group": "AfflictionNotableDrivetheDestruction",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1911162866",
+   "Enchants": [
+    9,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "Name": "Essence Rush",
+   "Order": 11228,
+   "Level": 50,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_1096136223",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Expansive Might",
+   "Order": 11190,
+   "Level": 68,
+   "Group": "AfflictionNotableExpansiveMight",
+   "Suffix": false,
+   "TradeId": "explicit.stat_394918362",
+   "Enchants": [
+    2
+   ]
+  },
+  {
+   "Name": "Exploit Weakness",
+   "Order": 12246,
+   "Level": 50,
+   "Group": "AfflictionNotableExploitWeakness",
+   "Suffix": false,
+   "TradeId": "explicit.stat_50129423",
+   "Enchants": [
+    12
+   ]
+  },
+  {
+   "Name": "Explosive Force",
+   "Order": 11198,
+   "Level": 68,
+   "Group": "AfflictionNotableExplosiveForce",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2017927451",
+   "Enchants": [
+    5
+   ]
+  },
+  {
+   "Name": "Fan of Blades",
+   "Order": 11193,
+   "Level": 75,
+   "Group": "AfflictionNotableFanofBlades",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2484082827",
+   "Enchants": [
+    3
+   ]
+  },
+  {
+   "Name": "Fearsome Warrior",
+   "Order": 11206,
+   "Level": 68,
+   "Group": "AfflictionNotableFearsomeWarrior",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3134222965",
+   "Enchants": [
+    6
+   ]
+  },
+  {
+   "Name": "Feasting Fiends",
+   "Order": 11311,
+   "Level": 1,
+   "Group": "AfflictionNotableFeastingFiends",
+   "Suffix": false,
+   "TradeId": "explicit.stat_383245807",
+   "Enchants": [
+    17
+   ]
+  },
+  {
+   "Name": "Feed the Fury",
+   "Order": 11221,
+   "Level": 50,
+   "Group": "AfflictionNotableFeedtheFury",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3944525413",
+   "Enchants": [
+    9,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "Name": "Force Multiplier",
+   "Order": 11130,
+   "Level": 50,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_1904581068",
+   "Enchants": [
+    12
+   ]
+  },
+  {
+   "Name": "Fuel the Fight",
+   "Order": 11219,
+   "Level": 1,
+   "Group": "AfflictionNotableFueltheFight",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3599340381",
+   "Enchants": [
+    9,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "Name": "Furious Assault",
+   "Order": 11131,
+   "Level": 1,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_3415827027",
+   "Enchants": [
+    12
+   ]
+  },
+  {
+   "Name": "Gladiator's Fortitude",
+   "Order": 11124,
+   "Level": 68,
+   "Group": "AfflictionNotableGladiatorsFortitude",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1591995797",
+   "Enchants": [
+    8
+   ]
+  },
+  {
+   "Name": "Graceful Execution",
+   "Order": 11204,
+   "Level": 1,
+   "Group": "AfflictionNotableGracefulExecution",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1903496649",
+   "Enchants": [
+    6
+   ]
+  },
+  {
+   "Name": "Grim Oath",
+   "Order": 11133,
+   "Level": 68,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_2194205899",
+   "Enchants": [
+    12,
+    16
+   ]
+  },
+  {
+   "Name": "Heavy Hitter",
+   "Order": 11215,
+   "Level": 50,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_3640252904",
+   "Enchants": [
+    9,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "Name": "Hit and Run",
+   "Order": 11208,
+   "Level": 1,
+   "Group": "AfflictionNotableHitandRun",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2665170385",
+   "Enchants": [
+    7
+   ]
+  },
+  {
+   "Name": "Insatiable Killer",
+   "Order": 11209,
+   "Level": 50,
+   "Group": "AfflictionNotableInsatiableKiller",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3904970959",
+   "Enchants": [
+    7
+   ]
+  },
+  {
+   "Name": "Inspired Oppression",
+   "Order": 11283,
+   "Level": 75,
+   "Group": "AfflictionNotableInspiredOppression",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3872380586",
+   "Enchants": [
+    11,
+    14,
+    15
+   ]
+  },
+  {
+   "Name": "Iron Breaker",
+   "Order": 11127,
+   "Level": 1,
+   "Group": "AfflictionNotableIronBreaker",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3258653591",
+   "Enchants": [
+    12
+   ]
+  },
+  {
+   "Name": "Lord of Drought",
+   "Order": 12242,
+   "Level": 50,
+   "Group": "AfflictionNotableLordofDrought",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2055715585",
+   "Enchants": [
+    13
+   ]
+  },
+  {
+   "Name": "Mage Bane",
+   "Order": 11210,
+   "Level": 68,
+   "Group": "AfflictionNotableMageBane",
+   "Suffix": false,
+   "TradeId": "explicit.stat_684155617",
+   "Enchants": [
+    7
+   ]
+  },
+  {
+   "Name": "Mage Hunter",
+   "Order": 11371,
+   "Level": 68,
+   "Group": "AfflictionNotableMageHunter",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2118664144",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Martial Mastery",
+   "Order": 11202,
+   "Level": 50,
+   "Group": "AfflictionNotableMartialMastery",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1015189426",
+   "Enchants": [
+    6
+   ]
+  },
+  {
+   "Name": "Martial Momentum",
+   "Order": 11211,
+   "Level": 50,
+   "Group": "AfflictionNotableMartialMomentum",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2978494217",
+   "Enchants": [
+    7
+   ]
+  },
+  {
+   "Name": "Martial Prowess",
+   "Order": 11216,
+   "Level": 1,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_1152182658",
+   "Enchants": [
+    9,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "Name": "Master of Fire",
+   "Order": 11236,
+   "Level": 75,
+   "Group": "AfflictionNotableMasterofFire",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1462135249",
+   "Enchants": [
+    13
+   ]
+  },
+  {
+   "Name": "Master the Fundamentals",
+   "Order": 11129,
+   "Level": 50,
+   "Group": "AfflictionNotableMastertheFundamentals",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3585232432",
+   "Enchants": [
+    12
+   ]
+  },
+  {
+   "Name": "Misery Everlasting",
+   "Order": 12245,
+   "Level": 50,
+   "Group": "AfflictionNotableMiseryEverlasting",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3832665876",
+   "Enchants": [
+    16
+   ]
+  },
+  {
+   "Name": "Opportunistic Fusilade",
+   "Order": 11199,
+   "Level": 1,
+   "Group": "AfflictionNotableOpportunisticFusilade",
+   "Suffix": false,
+   "TradeId": "explicit.stat_4281625943",
+   "Enchants": [
+    5
+   ]
+  },
+  {
+   "Name": "Overlord",
+   "Order": 11189,
+   "Level": 75,
+   "Group": "AfflictionNotableOverlord",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2250169390",
+   "Enchants": [
+    2
+   ]
+  },
+  {
+   "Name": "Overshock",
+   "Order": 11289,
+   "Level": 50,
+   "Group": "AfflictionNotableOvershock",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3777170562",
+   "Enchants": [
+    14
+   ]
+  },
+  {
+   "Name": "Overwhelming Malice",
+   "Order": 11145,
+   "Level": 68,
+   "Group": "AfflictionNotableOverwhelmingMalice",
+   "Suffix": false,
+   "TradeId": "explicit.stat_770408103",
+   "Enchants": [
+    16
+   ]
+  },
+  {
+   "Name": "Paralysis",
+   "Order": 11241,
+   "Level": 50,
+   "Group": "AfflictionNotableParalysis",
+   "Suffix": false,
+   "TradeId": "explicit.stat_4272503233",
+   "Enchants": [
+    14
+   ]
+  },
+  {
+   "Name": "Practiced Caster",
+   "Order": 11225,
+   "Level": 1,
+   "Group": "AfflictionNotablePracticedCaster",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3435403756",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Precise Retaliation",
+   "Order": 11125,
+   "Level": 50,
+   "Group": "AfflictionNotablePreciseRetaliation",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2335364359",
+   "Enchants": [
+    8
+   ]
+  },
+  {
+   "Name": "Primordial Bond",
+   "Order": 11258,
+   "Level": 68,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_622362787",
+   "Enchants": [
+    17
+   ]
+  },
+  {
+   "Name": "Prismatic Heart",
+   "Order": 11234,
+   "Level": 1,
+   "Group": "AfflictionNotablePrismaticHeart",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2342448236",
+   "Enchants": [
+    11,
+    14,
+    15,
+    13
+   ]
+  },
+  {
+   "Name": "Prodigious Defence",
+   "Order": 11118,
+   "Level": 1,
+   "Group": "AfflictionNotableProdigiousDefense",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1705633890",
+   "Enchants": [
+    8
+   ]
+  },
+  {
+   "Name": "Quick and Deadly",
+   "Order": 11213,
+   "Level": 68,
+   "Group": "AfflictionNotableQuickandDeadly",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2169345147",
+   "Enchants": [
+    7
+   ]
+  },
+  {
+   "Name": "Raze and Pillage",
+   "Order": 11253,
+   "Level": 68,
+   "Group": "AfflictionNotableRazeandPillage",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1038897629",
+   "Enchants": [
+    17
+   ]
+  },
+  {
+   "Name": "Renewal",
+   "Order": 11252,
+   "Level": 50,
+   "Group": "AfflictionNotableRenewal",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3607300552",
+   "Enchants": [
+    17
+   ]
+  },
+  {
+   "Name": "Righteous Path",
+   "Order": 11142,
+   "Level": 1,
+   "Group": "AfflictionNotableVengefulCommander",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2620267328",
+   "Enchants": [
+    11,
+    14,
+    15,
+    13
+   ]
+  },
+  {
+   "Name": "Riot Queller",
+   "Order": 11372,
+   "Level": 75,
+   "Group": "AfflictionNotableRiotQueller",
+   "Suffix": false,
+   "TradeId": "explicit.stat_254194892",
+   "Enchants": [
+    8
+   ]
+  },
+  {
+   "Name": "Rotten Claws",
+   "Order": 11254,
+   "Level": 50,
+   "Group": "AfflictionNotableRottenClaws",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2289610642",
+   "Enchants": [
+    17
+   ]
+  },
+  {
+   "Name": "Run Through",
+   "Order": 11187,
+   "Level": 68,
+   "Group": "AfflictionNotableRunThrough",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1488030420",
+   "Enchants": [
+    1
+   ]
+  },
+  {
+   "Name": "Sadist",
+   "Order": 11230,
+   "Level": 68,
+   "Group": "AfflictionNotableSadist",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3638731729",
+   "Enchants": [
+    11,
+    14,
+    15,
+    13
+   ]
+  },
+  {
+   "Name": "Sap Psyche",
+   "Order": 11229,
+   "Level": 68,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_715786975",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Scintillating Idea",
+   "Order": 11345,
+   "Level": 50,
+   "Group": "AfflictionNotableScintillatingIdea",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2589589781",
+   "Enchants": [
+    14
+   ]
+  },
+  {
+   "Name": "Seal Mender",
+   "Order": 11222,
+   "Level": 75,
+   "Group": "AfflictionNotableSealMender",
+   "Suffix": false,
+   "TradeId": "explicit.stat_876846990",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Skeletal Atrophy",
+   "Order": 11543,
+   "Level": 68,
+   "Group": "AfflictionNotableSkeletalAtrophy",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1290215329",
+   "Enchants": [
+    17
+   ]
+  },
+  {
+   "Name": "Smite the Weak",
+   "Order": 11214,
+   "Level": 1,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_540300548",
+   "Enchants": [
+    9,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "Name": "Smoking Remains",
+   "Order": 11237,
+   "Level": 50,
+   "Group": "AfflictionNotableSmokingRemains",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2322980282",
+   "Enchants": [
+    13
+   ]
+  },
+  {
+   "Name": "Snowstorm",
+   "Order": 11239,
+   "Level": 50,
+   "Group": "AfflictionNotableSnowstorm",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1595367309",
+   "Enchants": [
+    14,
+    15
+   ]
+  },
+  {
+   "Name": "Storm Drinker",
+   "Order": 11240,
+   "Level": 1,
+   "Group": "AfflictionNotableStormDrinker",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2087561637",
+   "Enchants": [
+    14
+   ]
+  },
+  {
+   "Name": "Storm's Hand",
+   "Order": 11200,
+   "Level": 50,
+   "Group": "AfflictionNotableStormsHand",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1122051203",
+   "Enchants": [
+    5
+   ]
+  },
+  {
+   "Name": "Stormrider",
+   "Order": 11288,
+   "Level": 68,
+   "Group": "AfflictionNotableStormrider",
+   "Suffix": false,
+   "TradeId": "explicit.stat_889728548",
+   "Enchants": [
+    15,
+    14
+   ]
+  },
+  {
+   "Name": "Strike Leader",
+   "Order": 11121,
+   "Level": 1,
+   "Group": "AfflictionNotableStrikeLeader",
+   "Suffix": false,
+   "TradeId": "explicit.stat_282062371",
+   "Enchants": [
+    8
+   ]
+  },
+  {
+   "Name": "Surefooted Striker",
+   "Order": 11203,
+   "Level": 50,
+   "Group": "AfflictionNotableSurefootedStriker",
+   "Suffix": false,
+   "TradeId": "explicit.stat_3410752193",
+   "Enchants": [
+    6
+   ]
+  },
+  {
+   "Name": "Tempered Arrowheads",
+   "Order": 11196,
+   "Level": 50,
+   "Group": "AfflictionNotableTemperedArrowheads",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2631806437",
+   "Enchants": [
+    4
+   ]
+  },
+  {
+   "Name": "Tempt the Storm",
+   "Order": 12244,
+   "Level": 50,
+   "Group": "AfflictionNotableTempttheStorm",
+   "Suffix": false,
+   "TradeId": "explicit.stat_348883745",
+   "Enchants": [
+    14
+   ]
+  },
+  {
+   "Name": "Thaumophage",
+   "Order": 11227,
+   "Level": 50,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_177215332",
+   "Enchants": [
+    10
+   ]
+  },
+  {
+   "Name": "Thunderstruck",
+   "Order": 11287,
+   "Level": 50,
+   "Group": "AfflictionNotableThunderstruck",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1741700339",
+   "Enchants": [
+    14
+   ]
+  },
+  {
+   "Name": "Titanic Swings",
+   "Order": 11155,
+   "Level": 50,
+   "Group": "AfflictionNotableTitanicSwings",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2930275641",
+   "Enchants": [
+    6
+   ]
+  },
+  {
+   "Name": "Touch of Cruelty",
+   "Order": 11246,
+   "Level": 1,
+   "Group": "AfflictionNotableTouchofCruelty",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2780712583",
+   "Enchants": [
+    16
+   ]
+  },
+  {
+   "Name": "Unholy Grace",
+   "Order": 11250,
+   "Level": 1,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_4186213466",
+   "Enchants": [
+    16
+   ]
+  },
+  {
+   "Name": "Unspeakable Gifts",
+   "Order": 11248,
+   "Level": 75,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_729163974",
+   "Enchants": [
+    16
+   ]
+  },
+  {
+   "Name": "Unwaveringly Evil",
+   "Order": 11247,
+   "Level": 1,
+   "Group": "AfflictionNotableUnwaveringlyEvil",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2788982914",
+   "Enchants": [
+    16
+   ]
+  },
+  {
+   "Name": "Veteran Defender",
+   "Order": 11126,
+   "Level": 1,
+   "Group": "AfflictionNotableVeteranDefender",
+   "Suffix": false,
+   "TradeId": "explicit.stat_664010431",
+   "Enchants": [
+    8
+   ]
+  },
+  {
+   "Name": "Vicious Bite",
+   "Order": 11257,
+   "Level": 75,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_882876854",
+   "Enchants": [
+    17
+   ]
+  },
+  {
+   "Name": "Vicious Skewering",
+   "Order": 11132,
+   "Level": 68,
+   "Group": "AfflictionNotableViciousSkewering",
+   "Suffix": false,
+   "TradeId": "explicit.stat_567971948",
+   "Enchants": [
+    9,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "Name": "Weight Advantage",
+   "Order": 11191,
+   "Level": 1,
+   "Group": "AfflictionNotableWeightAdvantage",
+   "Suffix": false,
+   "TradeId": "explicit.stat_2244243943",
+   "Enchants": [
+    2
+   ]
+  },
+  {
+   "Name": "Wicked Pall",
+   "Order": 11251,
+   "Level": 50,
+   "Group": "AfflictionNotableWickedPall",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1616734644",
+   "Enchants": [
+    16
+   ]
+  },
+  {
+   "Name": "Widespread Destruction",
+   "Order": 11235,
+   "Level": 1,
+   "Group": "AfflictionNotableLargeSuffix",
+   "Suffix": true,
+   "TradeId": "explicit.stat_1678643716",
+   "Enchants": [
+    11,
+    14,
+    15,
+    13
+   ]
+  },
+  {
+   "Name": "Wind-up",
+   "Order": 11192,
+   "Level": 68,
+   "Group": "AfflictionNotableWindup",
+   "Suffix": false,
+   "TradeId": "explicit.stat_1938661964",
+   "Enchants": [
+    3
+   ]
+  },
+  {
+   "Name": "Wound Aggravation",
+   "Order": 11188,
+   "Level": 1,
+   "Group": "AfflictionNotableWoundAggravation",
+   "Suffix": false,
+   "TradeId": "explicit.stat_69078820",
+   "Enchants": [
+    1
+   ]
+  }
+ ]
+}
