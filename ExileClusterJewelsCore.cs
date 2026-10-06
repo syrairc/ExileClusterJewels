@@ -105,11 +105,11 @@ public class ExileClusterJewels : BaseSettingsPlugin<ExileClusterJewelsSettings>
         if (NotablePicker("ecj_second", preset.Second, _secondCandidates, ref _secondFilter) is { } second) (preset.Second, changed) = (second, true);
         if (changed) Recalculate();
 
-        if (_error != null) ImGui.TextWrapped(_error);
+        if (_error != null) ImGui.TextWrapped(Pct(_error));
         for (var i = 0; i < _searches.Count; i++) DrawSearch(i, _searches[i]);
         if (_status == null) return;
         ImGui.Separator();
-        ImGui.TextWrapped(_status);
+        ImGui.TextWrapped(Pct(_status));
     }
 
     static (string key, string label) Candidate(ClusterNotable n) => (n.Name, $"{n.Name}  (ilvl {n.Level})");
@@ -122,9 +122,11 @@ public class ExileClusterJewels : BaseSettingsPlugin<ExileClusterJewelsSettings>
         ImGui.Separator();
         if (ImGui.Button($"Trade##ecj_trade{index}")) _status = OpenTrade(search.Query);
         ImGui.SameLine();
-        ImGui.TextWrapped(search.Label);
-        ImGui.TextDisabled("Middle: " + string.Join(", ", search.Middles.Select(m => $"{m.Name} ({m.Level})")));
+        ImGui.TextWrapped(Pct(search.Label));
+        ImGui.TextDisabled(Pct("Middle: " + string.Join(", ", search.Middles.Select(m => $"{m.Name} ({m.Level})"))));
     }
+
+    static string Pct(string text) => text.Replace("%", "%%");
 
     void Recalculate()
     {
